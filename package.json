@@ -1,0 +1,16 @@
+{
+  "name": "stonks-bot",
+  "version": "1.0.0",
+  "description": "A cryptocurrency trading bot based on Supertrend indicator.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yug Khatri/d3c3ptr0n",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.55.2",
+    "dotenv": "^10.0.0",
+    "technicalindicators": "^3.1.0"
+  }
+}
